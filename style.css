@@ -1,0 +1,13 @@
+#navbar{
+    text-align: center;
+
+}
+#input-container{
+    width: 550px;
+    margin: auto;
+    text-align: center;
+
+}
+input{
+    margin-bottom: 1rem;
+}
